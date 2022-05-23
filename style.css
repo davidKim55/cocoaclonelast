@@ -1,0 +1,9 @@
+.item-rate {
+    color:#FDCC32;
+    font-size:12px;
+    margin-bottom:20px;
+  }
+  
+  .item-rate i:last-child {
+    color:#F7F7F7;
+  }
